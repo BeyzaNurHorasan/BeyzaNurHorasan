@@ -1,8 +1,7 @@
 
-
 <h1 align="center">Hi 👋, I'm Beyza Nur Horasan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<div style="padding-top:75.200%;position:relative;"><iframe src="https://gifer.com/embed/E1sl" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/E1sl" width=480 height=360.960 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzanurhorasan" alt="beyzanurhorasan" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Kotlin, React,Go, Artificial Intelligence ,JavaScript, Data Mining**
