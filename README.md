@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Beyza Nur Horasan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="
-https://giphy.com/gifs/friends-nick-at-nite-l0COHDlELpysVhqgM">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Ffriends-nick-at-nite-l0COHDlELpysVhqgM&psig=AOvVaw1TJSN36C341-Khl5rQhmz4&ust=1702746748289000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZoYv4kYMDFQAAAAAdAAAAABBK">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzanurhorasan" alt="beyzanurhorasan" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Kotlin, React,Go, Artificial Intelligence ,JavaScript, Data Mining**
