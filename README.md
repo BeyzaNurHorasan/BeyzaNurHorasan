@@ -1,7 +1,9 @@
 
+
 <h1 align="center">Hi 👋, I'm Beyza Nur Horasan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="
+https://giphy.com/gifs/friends-nick-at-nite-l0COHDlELpysVhqgM">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzanurhorasan" alt="beyzanurhorasan" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Kotlin, React,Go, Artificial Intelligence ,JavaScript, Data Mining**
@@ -30,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beyzanurhorasan&show_icons=true&locale=en" alt="beyzanurhorasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyzanurhorasan&" alt="beyzanurhorasan" /></p>
-
